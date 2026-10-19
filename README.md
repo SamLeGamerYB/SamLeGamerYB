@@ -16,7 +16,7 @@ But in here you can have all my settings/mods or stuff find in my videos.
 
 Geometry Dash: [@SamLeGamerYT](https://gdbrowser.com/u/samlegameryt)  
 Ko-Fi: [@samlegamer](https://ko-fi.com/N6C026X3OU)  
-[My Linktree](https://linktr.ee/samlegamer)
+[My Linktree](https://linktr.ee/samlegamer) 
 My Youtube: [@SamLeGamer[GD]](https://www.youtube.com/channel/UCxO0cg5AGoFjfqXXXAHjFVQ)
 
 ## That's All Thanks
