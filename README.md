@@ -7,7 +7,7 @@ But in here you can have all my settings/mods or stuff find in my videos.
 
 ##### I did...
 - A [Super Mario 64 Coop Deluxe Mod launcher](https://github.com/SamLeGamerYB/sm64CoopDX) and the [repo for customs themes](https://github.com/SamLeGamerYB/sm64CoopDX-themes)
-- [SM64COOPDX https](https://github.com/SamLeGamerYB/sm64coopdx-https), a modified version of [SM64COOPDX](https://github.com/sm64coopdx/sm64coopdx) to let devs website things.
+- [SM64COOPDX https](https://github.com/SamLeGamerYB/sm64coopdx-https), a modified version of [SM64COOPDX](https://github.com/coop-deluxe/sm64coopdx) to let devs website things.
 - All my settings in [Geode for GD](https://github.com/geode-sdk/geode): [Settings](https://github.com/SamLeGamerYB/GD-Settings)
 
 ##### Currently working with...
