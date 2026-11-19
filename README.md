@@ -12,6 +12,8 @@ But in here you can have all my settings/mods or stuff find in my videos.
 
 ##### Currently working with...
 - The SM64COOPDX Mod launcher
+- SM64COOPDX Https
+- SM64COOPDX Chaos Mod
 
 ### Links
 
